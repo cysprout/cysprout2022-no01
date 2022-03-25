@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:24:09.540Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="17.2.3" etag="c_GuqAA5W7ECF4oBXVC6" type="github"><diagram id="Rfiw0JzNWFwcoG-SYALL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-25T16:16:50.590Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Gm9n-ng77ExNqIEHmRhp" version="17.2.3" type="github">
+  <diagram id="Rfiw0JzNWFwcoG-SYALL" name="Page-1">
+    <mxGraphModel dx="765" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-2" value="前端服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-3" value="后端服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-4" value="谷歌插件" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="374" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-5" value="区块链" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="249.5" as="sourcePoint" />
+            <mxPoint x="550" y="249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="250" as="sourcePoint" />
+            <mxPoint x="340" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="360" as="sourcePoint" />
+            <mxPoint x="190" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-10" value="中心化服务器，存储的数据如：&lt;br&gt;1、分享文件列表&lt;br&gt;2、用户管理&lt;br&gt;3、创建时间、用户状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-11" value="文件加密生成的文件上传区块链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-12" value="4.10号以前完成&lt;br&gt;【谷歌插件】" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="640" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-13" value="助记词组" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-14" value="系统生成" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-15" value="钱包私钥&lt;br&gt;生成" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="639.5" as="sourcePoint" />
+            <mxPoint x="290" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="639.5" as="sourcePoint" />
+            <mxPoint x="484" y="639.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-19" value="种子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-20" value="推送到&lt;br&gt;谷歌插件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-21" value="策略的公私密钥，经过插件离线存储在本地" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="160" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-22" value="策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="809.5" as="sourcePoint" />
+            <mxPoint x="320" y="809.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-24" value="导入功能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="356" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-25" value="导出功能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="880" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvUg5sP5wKKFMvpWZlwc-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="850" as="sourcePoint" />
+            <mxPoint x="300" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
