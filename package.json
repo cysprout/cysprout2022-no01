@@ -1,0 +1,17 @@
+{
+  "name": "cysprout2022-no01",
+  "version": "0.0.1",
+  "description": "No.01 project focus on creativities on bilibili video platform",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "no01",
+    "creativity",
+    "bilibli",
+    "video"
+  ],
+  "author": "y.cysprout",
+  "license": "ISC"
+}
